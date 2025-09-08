@@ -7,7 +7,7 @@ require (
 	github.com/rivo/tview v0.42.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.9.1
-	golang.org/x/term v0.34.0
+	golang.org/x/term v0.35.0
 	tinygo.org/x/bluetooth v0.13.0
 )
 
@@ -27,6 +27,6 @@ require (
 	github.com/tinygo-org/cbgo v0.0.4 // indirect
 	github.com/tinygo-org/pio v0.2.0 // indirect
 	golang.org/x/exp v0.0.0-20250819193227-8b4c13bb791b // indirect
-	golang.org/x/sys v0.35.0 // indirect
+	golang.org/x/sys v0.36.0 // indirect
 	golang.org/x/text v0.28.0 // indirect
 )
