@@ -3,7 +3,7 @@ module github.com/jmelahman/cycle-cli
 go 1.24.4
 
 require (
-	github.com/gdamore/tcell/v2 v2.12.2
+	github.com/gdamore/tcell/v2 v2.13.1
 	github.com/rivo/tview v0.42.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.10.1
